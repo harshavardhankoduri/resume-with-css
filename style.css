@@ -1,0 +1,60 @@
+.name{
+    background-color: lightblue;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    border: solid 1px black;
+    border-radius: 5px;
+}
+body{
+    background-color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+.SUMMARY{
+    background-color: lightcyan;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+.EDUCATION{
+    background-color: lightyellow;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+h3{
+    background-color: orangered;
+    display: inline;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+.skills{
+    background-color: rgb(255, 204, 153);
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+.projects{
+    background-color: rgb(233, 187, 134);
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+.declare{
+    background-color: rgb(247, 220, 111);
+    padding: 10px;
+    border-radius: 5px;
+    border: solid black 1px;
+}
+.logo img{
+    border-radius: 50%;
+    float: right;
+    margin: 5px 20px 15px 10px;
+    border: solid 1px black;
+}
+div:hover {
+    transition: all 0.3s ease;
+    transform: scale(1.02);
+}
